@@ -43,7 +43,7 @@ To sketch the given drawing with dimensions using fusion 360 tool.
 
 
 ## OUTPUT
-![Screenshot (1)](https://github.com/user-attachments/assets/ead18757-b239-40fe-a100-c22229f59fd4)
+"C:\Users\admin\Downloads\ex 1.1 EDM.pdf"
 
 
 ## RESULT
